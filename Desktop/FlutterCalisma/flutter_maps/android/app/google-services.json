@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "14277404521",
+    "project_id": "placesapp-4344f",
+    "storage_bucket": "placesapp-4344f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14277404521:android:05aba235b7653c67d23ff8",
+        "android_client_info": {
+          "package_name": "com.example.flutter_maps"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14277404521-rfjtktprd16l4hd9vo37pabcus31019b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv32pGbqRO2pu8IlIgAznYi-LGOdpnF_g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14277404521-rfjtktprd16l4hd9vo37pabcus31019b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
